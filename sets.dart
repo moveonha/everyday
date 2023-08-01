@@ -5,4 +5,7 @@ void main() {
   nums.add(1);
   nums.add(1);
   nums.add(1); //nothing changes, list = list, sets = tuple.
+  n_nums.add(1);
+  print(nums);
+  print(n_nums);
 }
