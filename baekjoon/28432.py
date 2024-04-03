@@ -17,3 +17,5 @@ for candidate in candidates:
 
 # 가능한 후보 중 첫 번째 후보를 출력
 print(possible_candidates[0])
+
+
